@@ -46,6 +46,11 @@ There are currently a few limitations and issues that I (Andre_601) can't solve 
 - The font does not have a 100% monospacing right now. Some characters (Especially unicode emojis) do not have a proper monspaced width (Usually 5px). I'm currently debating on increasing the width or otherwise trying to find good looking designs for the characters.
 - None of the `unicode_<x>.png` are covered yet. I'm not entirely sure if they are worth the effort to implement.
 
+## Next steps
+
+- Add `accented.png` to the pack
+- Make a GitHub Workflow to automatically create a usable resource-pack on release.
+
 ## Licenses
 
 This project is licensed under [MIT][license].  
